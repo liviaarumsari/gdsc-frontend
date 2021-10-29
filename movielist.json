@@ -1,0 +1,434 @@
+[
+  {
+  "name": "Black Widow",
+  "year": 2021,
+  "runtime": 134,
+  "categories": [
+    "sci-fi",
+    "action",
+    "adventure"
+  ],
+  "release-date": "2021-07-09",
+  "director": [
+      "Cate Shortland"
+  ],    
+  "writer": [
+    "Eric Pearson"
+  ],
+  "actors": [
+       "Scarlett Johansson",
+       "Florence Pugh", 
+       "Rachel Weisz", 
+       "David Harbour", 
+       "Ray Winstone", 
+       "Ever Anderson"
+  ],
+  "storyline": "Natasha Romanoff, aka Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy, and the broken relationships left in her wake long before she became an Avenger."
+},{
+  "name": "Cruella",
+  "year": 2021,
+  "runtime": 134,
+  "categories": [
+    "adventure",
+    "comedie",
+    "crime"
+  ],
+  "release-date": "2021-05-18",
+  "director": [
+      "Craig Gillespie"
+  ],    
+  "writer": [
+    "Dana Fox",
+    "Tony McNamara"
+  ],
+  "actors": [
+       "Emma Stone",
+       "Emma Thompson", 
+       "Joel Fry", 
+       "Paul Walter Hauser", 
+       "John McCrea", 
+       "Emily Beecham",
+       "Mark Strong"
+  ],
+  "storyline": "Estella is a young and clever grifter who's determined to make a name for herself in the fashion world. She soon meets a pair of thieves who appreciate her appetite for mischief, and together they build a life for themselves on the streets of London. However, when Estella befriends fashion legend Baroness von Hellman, she embraces her wicked side to become the raucous and revenge-bent Cruella."
+},{
+  "name": "Raya and the Last Dragon",
+  "year": 2021,
+  "runtime": 124,
+  "categories": [
+    "animation",
+    "action",
+    "adventure"
+  ],
+  "release-date": "2021-03-04",
+  "director": [
+      "Don Hall",
+      "Carlos López Estrada"
+  ],    
+  "writer": [
+    "Qui Nguyen",
+    "Adele Lim"
+  ],
+  "actors": [
+       "Kelly Marie Tran",
+       "Awkwafina", 
+       "Izaac Wang", 
+       "Gemma Chan", 
+       "Daniel Dae Kim", 
+       "Benedict Wong"
+  ],
+  "storyline": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. However, when sinister monsters known as the Druun threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, those same monsters have returned, and it's up to a lone warrior to track down the last dragon and stop the Druun for good."
+},{
+  "name": "Annabelle Comes Home",
+  "year": 2019,
+  "runtime": 106,
+  "categories": [
+    "supernatural",
+    "horror"
+  ],
+  "release-date": "2019-06-26",
+  "director": "Gary Dauberman",
+  "writer": [
+    "James Wan",
+    "Gary Dauberman"
+  ],
+  "actors": [
+    "Mckenna Grace",
+    "Madison Iseman",
+    "Katie Sarife",
+    "Patrick Wilson",
+    "Vera Farmiga"
+  ],
+  "storyline": "Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her 'safely' behind sacred glass and enlisting a priest's holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target--the Warrens' ten-year-old daughter, Judy, and her friends."
+},{
+  "name": "Avengers: Endgame",
+  "year": 2019,
+  "runtime": 181,
+  "categories": [
+      "action",
+      "sci-fi",
+      "fantasy"
+  ],
+  "release-date": "2019-04-26",
+  "director": [
+      "Anthony Russo",
+      "Joe Russo"
+  ],
+  "writer": [
+      "Christopher Markus",
+      "Stephen McFeely"
+  ],
+  "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Don Cheadle",
+      "Paul Rudd",
+      "Brie Larson",
+      "Karen Gillan",
+      "Danai Gurira",
+      "Benedict Wong",
+      "Jon Favreau",
+      "Bradley Cooper",
+      "Gwyneth Paltrow",
+      "Josh Brolin"
+  ],
+  "storyline": "Now that Thanos has put his plan into action in 'Avengers: Infinity War', it's time to find a way to undo what happened."
+},{
+  "name": "Joker",
+  "year": 2019,
+  "runtime": 122,
+  "categories": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "release-date": "2019-09-28",
+  "director": "Todd Phillips",
+  "writer": [
+    "Todd Phillips",
+    "Scott Silver"
+  ],
+  "actors": [
+    "Joaquin Phoenix",
+    "Robert De Niro",
+    "Zazie Beetz",
+    "Frances Conroy",
+    "Brett Cullen"
+  ],
+  "storyline": "In Gotham City, mentally-troubled comedian Arthur Fleck embarks on a downward-spiral of social revolution and bloody crime. This path brings him face-to-face with his infamous alter-ego: \"The Joker\"."
+},{
+  "name": "The Lion King",
+  "year": 2019,
+  "runtime": 118,
+  "categories": [
+    "animation",
+    "adventure",
+    "drama",
+    "family",
+    "musical"
+  ],
+  "release-date": "2019-07-19",
+  "director": "Jon Favreau",
+  "writer": [
+    "Jeff Nathanson",
+    "Brenda Chapman",
+    "Irene Mecchi",
+    "Jonathan Roberts",
+    "Linda Woolverton"
+  ],
+  "actors": [
+    "Donald Glover",
+    "Seth Rogen",
+    "Chiwetel Ejiofor",
+    "Alfre Woodard",
+    "Billy Eichner",
+    "John Kani",
+    "John Oliver",
+    "Beyoncé Knowles-Carter",
+    "James Earl Jones"
+  ],
+  "storyline": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery."
+},{
+  "name" : "Toy Story 4",
+  "year" : 2019,
+  "runtime" : 100,
+  "categories" : [
+    "animation",
+    "adventure",
+    "comedy",
+    "family",
+    "fantasy"
+  ],
+  "release-date" : "2019-06-21",
+  "director" : " Josh Cooley",
+  "writer" : [
+      "John Lasseter",
+      "Andrew Stanton",
+      "Josh Cooley",
+      "Valerie LaPointe",	
+      "Rashida Jones",
+      "Will McCormack",	
+      "Martin Hynes",
+      "Stephany Folsom"
+  ],
+  "actors" : [
+      "Tom Hanks",
+      "Tim Allen",
+      "Annie Potts",
+      "Tony Hale",
+      "Keegan-Michael Key",
+      "Madeleine McGraw",
+      "Christina Hendricks",
+      "Jordan Peele",
+      "Keanu Reeves",
+      "Ally Maki",
+      "Jay Hernandez",
+      "Lori Alan",
+      "Joan Cusack",
+      "Bonnie Hunt",
+      "Kristen Schaal"
+  ],
+  "storyline" : "When a new toy called Forky joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy."
+},{
+  "name" : "Us",
+  "year" : 2019,
+  "runtime" : 116,
+  "categories" : [
+    "horror",
+    "thriller",
+    "mystery",
+    "psychological horror"
+  ],
+  "release-date" : "2019-05-22",
+  "director" : "Jordan Peele",
+  "writer" : [
+    "Jordan Peele"
+  ],
+  "actors" : [
+    "Lupita Nyong'o",
+    "Madison Curry",
+    "Ashley McKoy",
+    "Winston Duke",
+    "Shahadi Wright Joseph",
+    "Evan Alex",
+    "Elisabeth Moss",
+    "Tim Heidecker",
+    "Yahya Adbul-Mateen II",
+    "Anna Diop",
+    "Cali Sheldon",
+    "Noelle Sheldon",
+    "Napiera Groves",
+    "Duke Nicholson",
+    "Kara Hayward",
+    "Nathan Harrington",
+    "Dustin Ybarra",
+    "Alan Frazier",
+    "Lon Gowan",
+    "Jordan Peele"
+  ],
+  "storyline" : "A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them."
+},{
+  "name": "A Quiet Place",
+  "year": 2018,
+  "runtime": 91,
+  "categories": [
+    "drama",
+    "horror",
+    "sci-fi"
+  ],
+  "release-date": "2018-04-06",
+  "director": "John Krasinski",
+  "writer": [
+    "Bryan Woods",
+    "Scott Beck",
+    "John Krasinski"
+  ],
+  "actors": [
+    "John Krasinski",
+    "Emily Blunt",
+    "Millicent Simmonds",
+    "Noah Jupe",
+    "Cade Woodward",
+    "Leon Russom"
+  ],
+  "storyline": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing."
+},{
+  "name": "Aquaman",
+  "year": 2018,
+  "runtime": 140,
+  "categories": [
+    "fantasy",
+    "science-fiction"
+  ],
+  "release-date": "2018-12-14",
+  "director": "James Wan",
+  "writer": [
+    "Paul Norris",
+    "Mort Weisinger"
+  ],
+  "actors": [
+    "Jason Momoa",
+    "Amber Heard",
+    "Nicole Kidman",
+    "Dolph Lundgren",
+    "Patrick Wilson",
+    "Willem Dafoe"
+  ],
+  "storyline": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world."
+},{
+  "name": "Crazy Rich Asians",
+  "year": 2018,
+  "runtime": 121,
+  "categories": [
+    "comedy-drama",
+    "comdey",
+    "romance"
+  ],
+  "release-date": "2018-08-15",
+  "director": "Jon M. Chu",
+  "writer": [
+    "Pete Chiarelli",
+    "Adele Lim"
+  ],
+  "actors": [
+    "Constance Wu",
+    "Henry Golding",
+    "Michelle Yeoh",
+    "Lisa Lu",
+    "Awkwafina",
+    "Chris Pang",
+    "Remy Hii"
+  ],
+  "storyline": "Rachel Chu is happy to accompany her longtime boyfriend, Nick, to his best friend's wedding in Singapore. She's also surprised to learn that Nick's family is extremely wealthy and he's considered one of the country's most eligible bachelors. Thrust into the spotlight, Rachel must now contend with jealous socialites, quirky relatives and something far, far worse -- Nick's disapproving mother."
+},{
+  "name": "Ocean's 8",
+  "year": 2018,
+  "runtime": 111,
+  "categories": [
+    "comedy",
+    "thriller"
+  ],
+  "release-date": "2018-06-08",
+  "director": "Gary Ross",
+  "writer": [
+    "Gary Ross",
+    "Olivia Milch"
+  ],
+  "actors": [
+      "Sandra Bullock",
+      "Cate Blanchett",
+      "Anne Hathaway",
+      "Mindy Kaling",
+      "Sarah Paulson",
+      "Awkwafina",
+      "Rihanna",
+      "Helena Bonham Carter"
+  ],
+  "storyline": "Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's yearly Met Gala."
+},{
+  "name": "Searching",
+  "year": 2018,
+  "runtime": 112,
+  "categories": [
+    "drama",
+    "mystery",
+    "thriller"
+  ],
+  "release-date": "2018-08-31",
+  "director": "Aneesh Chaganty",
+  "writer": [
+    "Aneesh Chaganty",
+    "Sev Ohanian"
+  ],
+  "actors": [
+    "John Cho",
+    "Debra Messing",
+    "Joseph Lee"
+  ],
+  "storyline": "After his 16-year-old daughter goes missing, a desperate father breaks into her laptop to look for clues to find her."
+},{
+  "name": "To All the Boys I've Loved Before",
+  "year": 2018,
+  "runtime": 99,
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "release-date": "2018-17-08",
+  "director": "Susan Johnson",
+  "writer": [
+      "Jenny Han"
+  ],
+  "actors": [
+    "Lana Condor",
+    "John Corbett",
+    "Noah Centineo"
+  ],
+  "storyline":"Lara Jean Song Covey (Lana Condor) writes secret love letters to all of her old crush. One day these letters are mysteriously sent to the boys she writes about, turning her life upside down."
+},{
+  "name": "Pride & Prejudice",
+  "year": 2005,
+  "runtime": 129 ,
+  "categories": [
+      "drama",
+      "romance"
+  ],
+  "release-date": "2005-11-23",
+  "director": "Joe Wright",
+  "writer": [
+      "Jane Austen",
+      "Deborah Moggach"
+  ],
+  "actors": [
+      "Keira Knightley",
+      "Matthew Macfadyen",
+      "Brenda Blethyn",
+      "Donald Sutherland"
+  ],
+  "storyline": "Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?"
+}
+]
