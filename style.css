@@ -62,10 +62,12 @@
     padding-inline: 5px;
 }
 
-.search-text{
+.search-bar input[type=text] {
     color: #3A3A3A;
     font-style: italic;
     opacity: 50%;
+    border: none;
+    background-color: #E6E6E6;
 }
 
 .search-icon{
@@ -115,8 +117,21 @@
     background-color: #7A9E7E;
     height: 60vh;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.landing-page-title{
+    font-size: 10vh;
+}
+
+.landing-page img{
+    width: auto;
+    height: 65vh;
+    position: absolute;
+    object-fit: cover;
 }
 
 .movie-cards{
